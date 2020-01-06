@@ -1,5 +1,7 @@
 tensorflow
 sklearn
+joblib
 pandas
 matplotlib
 jupyterlab
+requests
