@@ -14,6 +14,7 @@ ipython_config.py
 # ch02
 ch02_end_to_end_machine_learning_project/housing.csv
 ch02_end_to_end_machine_learning_project/housing.tgz
+ch02_end_to_end_machine_learning_project/housing.imputer
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
